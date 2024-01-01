@@ -16,12 +16,12 @@
 {
  height: 50px;
  width: 70px;
- color: aqua; 
 }
 h2 
 {
   display: flex;
   align-items: center;
+  color: #d81313;
 }
 .top 
 {
@@ -36,7 +36,7 @@ label
   display: flex;
   flex-direction: column;
   gap: 15px;
-  color: #d81313;
+  color: green;
   font-size: 1.2em;
 }
 .container 
@@ -85,7 +85,7 @@ input:nth-child(1)
 {
   padding-left: 10px;
   min-height: 40px;
-  color: blue;
+  color: gray;
   border: 2px solid grey;
   border-radius: 5px;
   outline: none;
@@ -140,6 +140,7 @@ td
   width: 230px;
   height: 50px;
   font-size: 1.3em;
+  color: black;
 }
 .introduction 
 {
